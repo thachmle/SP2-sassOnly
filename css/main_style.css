@@ -195,8 +195,8 @@ table {
   border-spacing: 0; }
 
 .pageHead {
-  background: url(../images/header.jpg) no-repeat;
   background: url("http://thachmle.github.io/sp2/images/header.jpg") no-repeat;
+  background: url(../images/header.jpg) no-repeat;
   width: 1200px;
   height: 400px;
   background-size: 100%;
