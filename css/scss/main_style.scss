@@ -18,7 +18,7 @@ display: inline-block;
 
 .pageHead {
 	background: url("http://thachmle.github.io/sp2/images/header.jpg") no-repeat;
-	background: url(../images/header.jpg) no-repeat;
+	/*background: url(../images/header.jpg) no-repeat; use above link for gh-pages, otherwise use this local ubma*/
 
 	width: 1200px;
 	height:400px;
