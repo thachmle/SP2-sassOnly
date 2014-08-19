@@ -195,7 +195,7 @@ table {
   border-spacing: 0; }
 
 .pageHead {
-  background: url("https://rawgit.com/thachmle/SP2-sassOnly/master/images/header.jpg") no-repeat;
+  background: url('https://raw.githubusercontent.com/thachmle/SP2-sassOnly/master/images/header.jpg') no-repeat;
   background: url(../images/header.jpg) no-repeat;
   width: 1200px;
   height: 400px;
